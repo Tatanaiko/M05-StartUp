@@ -4,7 +4,7 @@ import org.example.startup2.model.AddressDTO;
 
 import java.util.List;
 
-public interface AddresService {
+public interface AddressService {
 
     public List<AddressDTO> selectAllAddress();
 
